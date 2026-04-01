@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Everlasting",
+  "base_artist": "Kylee",
+  "createdAt": "2026-04-01T03:28:24.105734Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everlasting Motion (feat. Hamid El Kasri)",
+      "artist": "Jacob Collier feat. Metropole Orkest, Jules Buckley & Hamid El Kasri",
+      "has_synced": false,
+      "path": "select/01_Everlasting_Motion_(feat._Hamid_El_Kasri)_Jacob_Collier_feat._Metropole_Orkest,_Jules_Buckley_&_Hamid_El_Kasri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everlasting Motion",
+      "artist": "Jacob Collier / Metropole Orkest / Jules Buckley / Hamid El Kasri",
+      "has_synced": false,
+      "path": "select/02_Everlasting_Motion_Jacob_Collier___Metropole_Orkest___Jules_Buckley___Hamid_El_Kasri.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everlasting Arm",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/03_Everlasting_Arm_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Principles Of Lust - Everlasting Lust Mix",
+      "artist": "Enigma",
+      "has_synced": false,
+      "path": "select/04_Principles_Of_Lust_-_Everlasting_Lust_Mix_Enigma.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Temple Of Everlasting Light",
+      "artist": "Kula Shaker",
+      "has_synced": false,
+      "path": "select/05_Temple_Of_Everlasting_Light_Kula_Shaker.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everlasting Flames",
+      "artist": "Bladee feat. Thaiboy Digital",
+      "has_synced": true,
+      "path": "select/06_Everlasting_Flames_Bladee_feat._Thaiboy_Digital.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everlasting Flames (feat. Thaiboy Digital)",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/07_Everlasting_Flames_(feat._Thaiboy_Digital)_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everlasting Love",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/08_Everlasting_Love_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everlasting Love",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/09_Everlasting_Love_Sandra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everlasting Love (2006)",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/10_Everlasting_Love_(2006)_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everlasting Love (PWL Dub Mix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/11_Everlasting_Love_(PWL_Dub_Mix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everlasting Love (Dub Mix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/12_Everlasting_Love_(Dub_Mix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everlasting Love (Extended Version)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/13_Everlasting_Love_(Extended_Version)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everlasting Love (PWL 12\" mix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/14_Everlasting_Love_(PWL_12__mix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everlasting Love (PWL 12\" Remix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/15_Everlasting_Love_(PWL_12__Remix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Everlasting Love (PWL 12'' Remix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/16_Everlasting_Love_(PWL_12''_Remix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Everlasting Love (PWL 7\" remix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/17_Everlasting_Love_(PWL_7__remix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Everlasting",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/18_Everlasting_Saint_Etienne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everlasting",
+      "artist": "Kylee",
+      "has_synced": false,
+      "path": "select/pl_01_Everlasting_Kylee.txt"
+    }
+  ]
+}
